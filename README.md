@@ -68,9 +68,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penedo-v&show_icons=true&locale=en&layout=compact&theme=dark" alt="penedo-v" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penedov&show_icons=true&locale=en&layout=compact&theme=dark" alt="penedo-v" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=penedo-v&show_icons=true&locale=en&theme=dark" alt="penedo-v" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=penedov&show_icons=true&locale=en&theme=dark" alt="penedo-v" />
 </p>
