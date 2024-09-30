@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about development and innovation in Brazil</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=penedo-v&label=Profile%20views&color=0e75b6&style=flat" alt="penedo-v" />
+  <img src="https://komarev.com/ghpvc/?username=penedov&label=Profile%20views&color=0e75b6&style=flat" alt="penedo-v" />
 </p>
 
 - 🌱 I’m currently learning **Next.js, Power BI, and advanced algorithms. My focus is to expand my skills in web development and data analysis, always looking for new technologies to stay up to date and improve my performance.**
